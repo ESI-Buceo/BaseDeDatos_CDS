@@ -1,6 +1,6 @@
-create database dbTriage;
+create database cds;
 
-use dbTriage;
+use cds;
 
 CREATE TABLE persona(
     docidentidad INTEGER,
